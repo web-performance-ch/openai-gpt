@@ -5,7 +5,8 @@
  * It utilizes cURL to make a POST request and retrieve the generated image URL.
  */
 
- // Obtain the secret that is required.
+// Obtain the secret that is required.
+// https://platform.openai.com/api-keys
  $apiKey = ''; 
 
 /**
